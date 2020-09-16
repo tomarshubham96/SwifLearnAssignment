@@ -2,12 +2,14 @@ I have used React.js to create the boilerplate code for this app, used material 
 The app is responsive and dynamic.
 
 
-Clone This Repository
+### Quick start
 
-Make sure your NodeJS and npm versions are up to date for React 16.13.1
+* Clone This Repository.
 
-Install dependencies: npm install or yarn install
+* Install NodeJS.
 
-Start the server: npm run start or yarn start
+* Run npm install or yarn install.
 
-Views are on: localhost:3000
+* Start the server: npm run start or yarn start
+
+* Go to localhost:3000
