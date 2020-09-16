@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## SwifLearn App
 
-You can use the [editor on GitHub](https://github.com/tomarshubham96/SwifLearnAssignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. A basic application using React, Material UI and Materialize-CSS Ui library.
 
 ### Markdown
 
