@@ -5,12 +5,10 @@
 
 ### Quick start
 
-```markdown
 * Clone this repository.
 * Install nodejs.
 * Run npm install and npm start through cmd.
 * Go to http://localhost:3000.
-```
 
 ### Support or Contact
 
